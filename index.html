@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Conversor de moedas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+  <body>
+      <div class="container">
+        <h1>Currency Convertor</h1>
+        <div class="box">
+          <div class="left-box">
+            <select id="selected" name="currency" class="currency">
+              <option id="usd" value="usd">USD</option>
+              <option id="brl" value="brl">BRL</option>
+              <option id="eur" value="euro">EUR</option>
+            </select>
+            <input type="number" id="input-num">
+            <div id="testeInner"></div>
+          </div>
+
+          <div class="right-box">
+            <select id="selected-output" name="currency" class="currency">
+              <option id="usd-output" value="usd">USD</option>
+              <option id="brl-output" value="brl">BRL</option>
+              <option id="eur-output" value="eur">EUR</option>
+            </select>
+            <input type="number" id="output-num">
+            <label id="teste-output"></label>
+          </div>
+        </div>
+
+        <button class="button-converter" id="btn" onclick="Converter()">Converter</button>
+<!--        <button class="button-converter" id="btn">Converter</button>-->
+      </div>
+
+  <script src="script.js"></script>
+  </body>
+</html>
