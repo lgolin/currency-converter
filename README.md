@@ -1,7 +1,4 @@
 # Currency Convertor
-<p align="center">
-	<img src="./img/cc" alt="Imersão Dev" title="Imersão Dev">
-</p>
 
 ## Sobre   
 Este projeto foi desenvolvido para o segundo desafio da **[Imersão Dev | Alura](https://imersao.dev/)**. O objetivo do projeto era calcular o valor de uma moeda para outra. 
@@ -12,7 +9,6 @@ Este projeto foi desenvolvido para o segundo desafio da **[Imersão Dev | Alura]
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
 ---
 
 
