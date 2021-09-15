@@ -1,6 +1,6 @@
 # Currency Convertor
 <p align="center">
-	<img src="https://i.imgur.com/RjUNlyv.png" alt="Codelândia" title="Codelândia">
+	<img src="https://imgur.com/i129ZT2" alt="Imersão Dev" title="Imersão Dev">
 </p>
 
 ## Sobre   
